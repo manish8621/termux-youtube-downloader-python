@@ -1,3 +1,9 @@
+#install required packages manually
+echo "make sure you have installed these ................."
+echo "python"
+echo "pip"
+echo "ffmpeg"
+echo ""
 mkdir data/data/com.termux/files/home/bin
 echo "created a folder..."
 cp termux-url-opener data/data/com.termux/files/home/bin
