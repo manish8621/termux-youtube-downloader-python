@@ -1,4 +1,5 @@
 Under Development !!!!!!!!!!!!!!
+5 feb : added shorts support
 
 dislike count Problem resolved
 pip install youtube-dl==2020.12.2
