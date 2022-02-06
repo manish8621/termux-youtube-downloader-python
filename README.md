@@ -1,7 +1,8 @@
 Under Development !!!!!!!!!!!!!!
 
-6 feb : added external download manager support 1dm
+6 feb : Ver:3.0 added external download manager support 1dm
         Only for videos
+        Cant set video title as file name
 5 feb : added shorts support
 
 dislike count Problem resolved
