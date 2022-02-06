@@ -1,4 +1,7 @@
 Under Development !!!!!!!!!!!!!!
+
+6 feb : added external download manager support 1dm
+        Only for videos
 5 feb : added shorts support
 
 dislike count Problem resolved
